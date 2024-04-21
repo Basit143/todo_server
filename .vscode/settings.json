@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "fastapi",
+    "httpx",
+    "psycopg",
+    "pytest",
+    "sqlmodel",
+    "starlette",
+    "Todos",
+    "uvicorn"
+  ]
+}
